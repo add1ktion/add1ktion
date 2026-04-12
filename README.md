@@ -1,13 +1,11 @@
 <h1 align="center">Hello 👋 !</h1>
 <h3 align="center">Antoine BATS, Développeur Fullstack</h3>
 
-- 🔭 Je travaille actuellement sur [HBnB](https://github.com/add1ktion/holbertonschool-hbnb)
+- 🔭 Je travaille actuellement sur EsportCal en collaboration avec [Ilan](https://github.com/Ilnnn)
 
 - 🌱 J'apprends le Python
 
-- 💻 J'ai déjà réalisé [simple_shell](https://github.com/add1ktion/holbertonschool-shell)
-
-- 🤝 Je vais collaborer sur EsportCal
+- 💻 J'ai déjà réalisé [simple_shell](https://github.com/add1ktion/holbertonschool-shell), [HBnB](https://github.com/add1ktion/holbertonschool-hbnb) ainsi que [Fluxify](https://github.com/loties1533/bordeaux-safesim).
 
 - 📫 Me contacter antoine.bats@gmail.com
 
