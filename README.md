@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 !</h1>
 <h3 align="center">Antoine BATS, Développeur Fullstack</h3>
 
-- 🔭 Je travaille actuellement sur eSportCal en collaboration avec [Ilan](https://github.com/Ilnnn)
+- 🔭 Je travaille actuellement sur [eSportCal](https://github.com/add1ktion/eSportCal) en collaboration avec [Ilan](https://github.com/Ilnnn) en tant que projet de fin d'étude.
 
 - 🌱 J'apprends le Python
 
