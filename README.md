@@ -1,18 +1,25 @@
 <h1 align="center">Hello 👋 !</h1>
-<h3 align="center">Antoine BATS, Développeur Fullstack</h3>
+<h3 align="center">Antoine BATS,</h3>
+<h3 align="center">Étudiant Développeur Fullstack</h3>
 
-- 🔭 Je travaille actuellement sur [eSportCal](https://github.com/add1ktion/eSportCal) en collaboration avec [Ilan](https://github.com/Ilnnn) en tant que projet de fin d'étude.
+---
 
-- 🌱 J'apprends le Python
+- 🔭 Je travaille actuellement sur [eSportCal](https://github.com/add1ktion/eSportCal) en collaboration avec [Ilan](https://github.com/Ilnnn) pour notre projet de fin d'étude.
 
-- 💻 J'ai déjà réalisé [simple_shell](https://github.com/add1ktion/holbertonschool-shell), [HBnB](https://github.com/add1ktion/holbertonschool-hbnb) ainsi que [Fluxify](https://github.com/loties1533/bordeaux-safesim).
+- 🌱 J'approfondis mes connaissance sur Docker.
+
+- 💻 J'ai déjà réalisé [simple_shell](https://github.com/add1ktion/holbertonschool-simple_shell), [HBnB](https://github.com/add1ktion/holbertonschool-hbnb) ainsi que [Fluxify](https://github.com/loties1533/bordeaux-safesim).
 
 - 📫 Me contacter antoine.bats@gmail.com
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antoine bats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine bats" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <table align="left">
