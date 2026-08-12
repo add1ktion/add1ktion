@@ -7,8 +7,8 @@
 
 ## 🟢 Production Status & Stats
 <p align="left">
-  <img src="https://img.shields.io/http/v/https/api.esportcal.com/api/health?label=eSportCal%20API&color=brightgreen&style=flat-square" alt="API Status" />
-  <img src="https://img.shields.io/github/workflow/status/add1ktion/eSportCal-frontend/Build%20and%20Deploy?label=Azure%20SWA%20Deployment&style=flat-square" alt="Deployment Status" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.esportcal.com%3A2443%2Fapi%2Fhealth&query=%24.status&label=eSportCal%20API&color=brightgreen&style=flat-square" alt="API Status" />
+  <img src="https://img.shields.io/badge/Azure%20SWA-Deployed-blue?style=flat-square" alt="Deployment Status" />
 </p>
 
 ---
@@ -98,15 +98,13 @@ graph TD
 ---
 
 ## 📊 Statistiques GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=add1ktion&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=add1ktion&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
-</p>
+![Antoine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=add1ktion&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=add1ktion&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📁 Autres Projets scolaires
-*   **[Fluxify](https://github.com/loties1533/bordeaux-safesim)** : Projet collaboratif de simulation de sécurité routière.
+*   **[Fluxify](https://github.com/loties1533/bordeaux-safesim)** : Projet collaboratif de simulation de montée des eaux.
 *   **[HBnB](https://github.com/add1ktion/holbertonschool-hbnb)** : Clone complet d'AirBnB développé en Python (Flask, API RESTful, MySQL).
 *   **[Simple Shell](https://github.com/add1ktion/holbertonschool-shell)** : Recréation en C d'un shell Unix fonctionnel, avec gestion des processus et parseur de commandes personnalisé.
 
