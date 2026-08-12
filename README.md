@@ -115,4 +115,4 @@ graph TD
 *   **Email** : [antoine.bats@gmail.com](mailto:antoine.bats@gmail.com) ✉️
 
 ---
-<p align="center"><i>"Wake up. Code. Walk the Pug. Code. Sleep. Repeat. 🐶"</i></p>
+<p align="center"><i>"Code. Walk the Pug. Sleep. Repeat."</i></p>
