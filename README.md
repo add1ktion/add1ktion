@@ -97,12 +97,6 @@ graph TD
 
 ---
 
-## Statistiques GitHub
-![Antoine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=add1ktion&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=add1ktion&layout=compact&theme=tokyonight)
-
----
-
 ## Autres Projets
 *   **[Fluxify](https://github.com/loties1533/bordeaux-safesim)** : Projet collaboratif de simulation de montée des eaux.
 *   **[HBnB](https://github.com/add1ktion/holbertonschool-hbnb)** : Clone complet d'AirBnB développé en Python (Flask, API RESTful, MySQL).
