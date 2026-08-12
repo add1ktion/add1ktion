@@ -14,7 +14,7 @@
 ---
 
 ## 💻 Mon HomeLab & Infrastructure Cloud Privée 🏠
-*En dehors de mes cours, je gère et maintiens ma propre infrastructure de serveur privé (HomeLab) pour auto-héberger mes services quotidiens. C’est mon terrain d'expérimentation favori pour le réseau, la sécurité et la virtualisation.*
+*Je gère et maintiens ma propre infrastructure de serveur privé (HomeLab) pour auto-héberger mes services quotidiens. C’est mon terrain d'expérimentation favori pour le réseau, la sécurité et la virtualisation.*
 
 *   **Architecture & Conteneurisation** : Orchestration de **23 conteneurs Docker** actifs via Docker Compose sur un serveur privé Linux (NAS).
 *   **Sécurité & Reverse Proxy** :
