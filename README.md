@@ -1,11 +1,11 @@
 # Salut ! Moi c'est Antoine BATS 👋
-### **Développeur Fullstack & DevOps** 🚀
+### **Développeur Fullstack & DevOps**
 
 *Passionné en ingénierie logicielle, spécialisé dans le développement d'applications web robustes et la mise en place d'architectures d'infrastructure sécurisées, auto-hébergées et monitorées.*
 
 ---
 
-## 🟢 Production Status & Stats
+## Production Status & Stats
 <p align="left">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.esportcal.com%3A2443%2Fapi%2Fhealth&query=%24.status&label=eSportCal%20API&color=brightgreen&style=flat-square" alt="API Status" />
   <img src="https://img.shields.io/badge/Azure%20SWA-Deployed-blue?style=flat-square" alt="Deployment Status" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 Mon HomeLab & Infrastructure Cloud Privée 🏠
+## Mon HomeLab & Infrastructure Cloud Privée
 *Je gère et maintiens ma propre infrastructure de serveur privé (HomeLab) pour auto-héberger mes services quotidiens. C’est mon terrain d'expérimentation favori pour le réseau, la sécurité et la virtualisation.*
 
 *   **Architecture & Conteneurisation** : Orchestration de **23 conteneurs Docker** actifs via Docker Compose sur un serveur privé Linux (NAS).
@@ -27,7 +27,7 @@
 
 ---
 
-## ⭐️ Projet Phare : **eSportCal** 🎮
+## Projet Phare : **eSportCal**
 **eSportCal** est une plateforme web et application mobile PWA qui centralise et planifie en temps réel les matchs de la scène professionnelle e-sport.
 
 Développé en collaboration avec [Ilan](https://github.com/Ilnnn), ce projet collaboratif a servi de laboratoire pour concevoir une architecture **Fullstack** moderne et un pipeline **DevOps** d'excellence.
@@ -43,7 +43,7 @@ graph TD
     Loki -->|Visualization| Grafana[Grafana Cloud Dashboard]
 ```
 
-### 🛠️ Architecture Technique & Accomplissements :
+### Architecture Technique & Accomplissements :
 
 #### **1. Frontend & Mobile (PWA)**
 *   **Technologies** : React, Vite, Tailwind CSS.
@@ -66,13 +66,13 @@ graph TD
 
 ---
 
-## ⚙️ Méthodologie & Bonnes Pratiques
+## Méthodologie & Bonnes Pratiques
 *   **Git Workflow** : Utilisation stricte de Pull Requests (PR) avec séparation d'environnements (`main`, `staging`, `dev`).
 *   **Conventional Commits** : Messages de commit standardisés et sémantiques (`feat:`, `fix:`, `chore:`, `style:`, `docs:`) pour une traçabilité claire de l'historique de développement.
 
 ---
 
-## 🛠 Langages et Technologies
+## Langages et Technologies
 
 ### **Développement Web & Logiciel**
 <p align="left">
@@ -97,22 +97,22 @@ graph TD
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 ![Antoine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=add1ktion&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=add1ktion&layout=compact&theme=tokyonight)
 
 ---
 
-## 📁 Autres Projets
+## Autres Projets
 *   **[Fluxify](https://github.com/loties1533/bordeaux-safesim)** : Projet collaboratif de simulation de montée des eaux.
 *   **[HBnB](https://github.com/add1ktion/holbertonschool-hbnb)** : Clone complet d'AirBnB développé en Python (Flask, API RESTful, MySQL).
 *   **[Simple Shell](https://github.com/add1ktion/holbertonschool-shell)** : Recréation en C d'un shell Unix fonctionnel, avec gestion des processus et parseur de commandes personnalisé.
 
 ---
 
-## 📬 Me Contacter
+## Me Contacter
 *   **LinkedIn** : [in/antoine-bats](https://linkedin.com/in/antoine-bats) 💼
 *   **Email** : [antoine.bats@gmail.com](mailto:antoine.bats@gmail.com) ✉️
 
 ---
-<p align="center"><i>"Building performant code, securing systems, monitoring everything."</i></p>
+<p align="center"><i>"Code. Deploy. Secure. Pet the Pug. Repeat. 🐶"</i></p>
